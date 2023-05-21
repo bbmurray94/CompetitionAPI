@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Competition.Data\Competition.Data.csproj" />
     <ProjectReference Include="..\Competition.Domain\Competition.Domain.csproj" />
   </ItemGroup>
